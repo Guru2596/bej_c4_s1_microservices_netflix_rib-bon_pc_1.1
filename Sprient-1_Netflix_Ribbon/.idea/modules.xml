@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NetflixEurekaServer/NetflixEurekaServer.iml" filepath="$PROJECT_DIR$/NetflixEurekaServer/NetflixEurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProductByMongo/ProductByMongo.iml" filepath="$PROJECT_DIR$/ProductByMongo/ProductByMongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sprient-1_Netflix_Ribbon.iml" filepath="$PROJECT_DIR$/.idea/Sprient-1_Netflix_Ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authenticationService/authenticationService.iml" filepath="$PROJECT_DIR$/authenticationService/authenticationService.iml" />
+    </modules>
+  </component>
+</project>
